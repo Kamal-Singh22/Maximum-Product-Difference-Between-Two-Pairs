@@ -15,4 +15,4 @@ Compute:
 
 (largest1 * largest2) - (smallest1 * smallest2)
 
-Return the result.
+Return the result...
