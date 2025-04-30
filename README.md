@@ -3,7 +3,7 @@ Given an integer array nums, choose two pairs of numbers (a, b) and (c, d) such 
 Explanation:
 Sort the array first.
 
-After sorting: the smallest two numbers are at the beginning and the largest two are at the end.
+After sorting: The smallest two numbers are at the beginning and the largest two are at the end.
 
 Select:
 
